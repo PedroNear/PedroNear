@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
 
 ## Olá! bem vindo ao meu perfil =)
 
